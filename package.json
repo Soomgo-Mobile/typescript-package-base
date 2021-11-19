@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-base",
+  "name": "<<Your package name>>",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Soomgo-Mobile/typescript-package-base.git"
+    "url": "<<Your repository url>>"
   },
   "author": "jimmy <jimmy@soomgo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Soomgo-Mobile/typescript-package-base/issues"
+    "url": "<<Your issue board page url>>"
   },
-  "homepage": "https://github.com/Soomgo-Mobile/typescript-package-base#readme",
+  "homepage": "<<Your repository readme page url>>",
   "devDependencies": {
     "typescript": "^4.5.2"
   }

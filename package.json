@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "rm -rf ./dist && npm ci && npx tsc && npm publish"
+    "deploy": "rm -rf ./dist && npm ci && npx tsc && npm publish --access=public"
   },
   "repository": {
     "type": "git",

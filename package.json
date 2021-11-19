@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Soomgo-Mobile/typescript-package-base/issues"
   },
-  "homepage": "https://github.com/Soomgo-Mobile/typescript-package-base#readme"
+  "homepage": "https://github.com/Soomgo-Mobile/typescript-package-base#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
